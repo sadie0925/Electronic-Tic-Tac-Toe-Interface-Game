@@ -1,7 +1,7 @@
 #include <stdbool.h> // booleans, i.e. true and false
 #include <stdio.h>   // sprintf() function
 #include <stdlib.h>  // srand() and random() functions
-#include "ece198.h"
+#include "TicTacToe.h"
 #include <string.h>
 // This function is called by the HAL once every millisecond
 void SysTick_Handler(void)

@@ -4,7 +4,7 @@
 
 #include <stdbool.h>  // for bool datatype
 
-#include "ece198.h"
+#include "TicTacToe.h"
 
 ///////////////////////
 // Initializing Pins //
