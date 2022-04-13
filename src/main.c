@@ -70,7 +70,7 @@ int main(void) {
    // set up for serial communication to the host computer
    // (anything we write to the serial port will appear in the terminal (i.e. serial monitor) in VSCode)
    SerialSetup(9600);
-   char board[9]; //right way?
+   char board[9]; 
    char turnchar = '0';
    int piece_value = 0;
    int c = 0;
