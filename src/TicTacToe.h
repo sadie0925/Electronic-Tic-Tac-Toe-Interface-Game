@@ -1,7 +1,3 @@
-// Header file for ece198.c
-
-// Written by Bernie Roehl, July 2021
-
 #include "stm32f4xx_hal.h"
 
 void InitializePin(GPIO_TypeDef *port, uint16_t pins, uint32_t mode, uint32_t pullups, uint8_t alternate);
